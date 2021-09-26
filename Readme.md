@@ -2,6 +2,41 @@
 
 * Студент: [Артур](https://up.htmlacademy.ru/htmlcss/32/user/1903471).
 * Наставник: `Сайпула Валиев`.
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>HTML Academy: Седона</title>
+  </head>
+  <body>
+    <header class="page-header">
+      <nav class="navigation">
+        <ul class="navigation-list">
+          <li class="navigation-item">
+            <a class="navigation-link" href=""about.HTML">Главная</a>  
+          </li>
+          <a class="navigation-link" href="about.HTML">О Седонне</a>  
+          </li>
+          <a class="navigation-link" href="about.HTML">Гостиницы</a>  
+          </li> 
+        </ul>
+          <ul class="navigation-list navigation-user">
+            <li class="navigation-item">
+              <a class="navigation-link" href="#"><span class=visually-hidden">Поиск</span></a>  
+            </li>
+        </li>
+        <a class="navigation-link" href="#"><span class=visually-hidden">Избранное</span></a>  
+        </li>
+        <a class="navigation-link" href="#"><span class=visually-hidden">ХОЧУ СЮДА</span>ХОЧУ СЮДА</a>  
+        </li> 
+        </ul>
+      </nav>
+    </header>
+
+    <p>Репозиторий создан для обучения на профессиональном онлайн‑курсе «<a href="https://htmlacademy.ru/intensive/htmlcss">HTML и CSS. Профессиональная вёрстка сайтов</a>».</p>
+
+  </body>
+</html>
 
 ---
 
