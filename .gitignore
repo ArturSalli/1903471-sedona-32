@@ -9,3 +9,6 @@
 node_modules/
 npm-debug.*
 Thumbs.db
+fonts/ptsans-400.woff2
+*.woff2
+fonts/ptsans-700.woff2
